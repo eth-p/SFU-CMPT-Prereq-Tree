@@ -1,0 +1,147 @@
+digraph dagger {
+bgcolor = white;
+edge [dir = back];
+CMPT459 [fillcolor = "#ff8888"]
+CMPT354 [fillcolor = "#ff8888"]
+CMPT459 -> CMPT354;
+CMPT454 [fillcolor = "#ff8888"]
+CMPT300 [fillcolor = "#ff8888"]
+CMPT454 -> CMPT300;
+MATH152 [fillcolor = "#ff8888"]
+MATH151 [fillcolor = "#ff8888"]
+CMPT310 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT310 -> CMPT225;
+MACM101 [fillcolor = "#ff8888"]
+CMPT310 -> MACM101;
+CMPT499 [fillcolor = "#ff8888"]
+CMPT276 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT276 -> CMPT225;
+MACM101 [fillcolor = "#ff8888"]
+CMPT276 -> MACM101;
+MATH151 [fillcolor = "#ff8888"]
+CMPT276 -> MATH151;
+MACM401 [fillcolor = "#ff8888"]
+CMPT307 [fillcolor = "#ff8888"]
+MACM401 -> CMPT307;
+MATH340 [fillcolor = "#ff8888"]
+MACM401 -> MATH340;
+MACM101 [fillcolor = "#ff8888"]
+CMPT376W [fillcolor = "#ff8888"]
+CMPT276 [fillcolor = "#ff8888"]
+CMPT376W -> CMPT276;
+CMPT474 [fillcolor = "#ff8888"]
+CMPT371 [fillcolor = "#ff8888"]
+CMPT474 -> CMPT371;
+MACM316 [fillcolor = "#ff8888"]
+MATH152 [fillcolor = "#ff8888"]
+MACM316 -> MATH152;
+CMPT340 [fillcolor = "#ff8888"]
+CMPT125 [fillcolor = "#ff8888"]
+CMPT340 -> CMPT125;
+MATH340 [fillcolor = "#ff8888"]
+CMPT433 [fillcolor = "#ff8888"]
+CMPT295 [fillcolor = "#ff8888"]
+CMPT433 -> CMPT295;
+CMPT300 [fillcolor = "#ff8888"]
+CMPT433 -> CMPT300;
+CMPT363 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT363 -> CMPT225;
+CMPT361 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT361 -> CMPT225;
+CMPT365 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT365 -> CMPT225;
+CMPT469 [fillcolor = "#ff8888"]
+CMPT361 [fillcolor = "#ff8888"]
+CMPT469 -> CMPT361;
+CMPT404 [fillcolor = "#ff8888"]
+MACM201 [fillcolor = "#ff8888"]
+CMPT404 -> MACM201;
+CMPT461 [fillcolor = "#ff8888"]
+MACM201 [fillcolor = "#ff8888"]
+CMPT461 -> MACM201;
+CMPT361 [fillcolor = "#ff8888"]
+CMPT461 -> CMPT361;
+CMPT305 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT305 -> CMPT225;
+MACM101 [fillcolor = "#ff8888"]
+CMPT305 -> MACM101;
+STAT270 [fillcolor = "#ff8888"]
+CMPT305 -> STAT270;
+MATH308 [fillcolor = "#ff8888"]
+MATH240 [fillcolor = "#ff8888"]
+MATH308 -> MATH240;
+CMPT307 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT307 -> CMPT225;
+MACM201 [fillcolor = "#ff8888"]
+CMPT307 -> MACM201;
+MATH151 [fillcolor = "#ff8888"]
+CMPT307 -> MATH151;
+CMPT300 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT300 -> CMPT225;
+CMPT295 [fillcolor = "#ff8888"]
+CMPT300 -> CMPT295;
+CMPT464 [fillcolor = "#ff8888"]
+MACM316 [fillcolor = "#ff8888"]
+CMPT464 -> MACM316;
+CMPT361 [fillcolor = "#ff8888"]
+CMPT464 -> CMPT361;
+CMPT466 [fillcolor = "#ff8888"]
+MACM316 [fillcolor = "#ff8888"]
+CMPT466 -> MACM316;
+CMPT361 [fillcolor = "#ff8888"]
+CMPT466 -> CMPT361;
+CMPT125 [fillcolor = "#ff8888"]
+CMPT120 [fillcolor = "#ff8888"]
+CMPT125 -> CMPT120;
+CMPT127 [fillcolor = "#ff8888"]
+CMPT120 [fillcolor = "#ff8888"]
+CMPT127 -> CMPT120;
+CMPT120 [fillcolor = "#ff8888"]
+MATH240 [fillcolor = "#ff8888"]
+MACM101 [fillcolor = "#ff8888"]
+MATH240 -> MACM101;
+CMPT225 [fillcolor = "#ff8888"]
+CMPT125 [fillcolor = "#ff8888"]
+CMPT225 -> CMPT125;
+MACM101 [fillcolor = "#ff8888"]
+CMPT225 -> MACM101;
+CMPT354 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT354 -> CMPT225;
+MACM101 [fillcolor = "#ff8888"]
+CMPT354 -> MACM101;
+MACM201 [fillcolor = "#ff8888"]
+MACM101 [fillcolor = "#ff8888"]
+MACM201 -> MACM101;
+MATH240 [fillcolor = "#ff8888"]
+MACM201 -> MATH240;
+STAT270 [fillcolor = "#ff8888"]
+MATH152 [fillcolor = "#ff8888"]
+STAT270 -> MATH152;
+CMPT417 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT417 -> CMPT225;
+CMPT419 [fillcolor = "#ff8888"]
+CMPT371 [fillcolor = "#ff8888"]
+CMPT225 [fillcolor = "#ff8888"]
+CMPT371 -> CMPT225;
+MATH151 [fillcolor = "#ff8888"]
+CMPT371 -> MATH151;
+CMPT295 [fillcolor = "#ff8888"]
+CMPT125 [fillcolor = "#ff8888"]
+CMPT295 -> CMPT125;
+CMPT127 [fillcolor = "#ff8888"]
+CMPT295 -> CMPT127;
+MACM101 [fillcolor = "#ff8888"]
+CMPT295 -> MACM101;
+MATH151 [fillcolor = "#ff8888"]
+CMPT295 -> MATH151;
+}
