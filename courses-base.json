@@ -1,360 +1,184 @@
 {
     "COURSES": [
         {
-            "CODE": "CMPT120",
-            "PREREQ": [
-            ]
+            "CODE": "CMPT120"
         },
         {
-            "CODE": "CMPT125",
-            "PREREQ": [
-                "CMPT120"
-            ]
+            "CODE": "CMPT125"
         },
         {
-            "CODE": "CMPT127",
-            "PREREQ": [
-                "CMPT120"
-            ]
+            "CODE": "CMPT127"
         },
         {
-            "CODE": "CMPT225",
-            "PREREQ": [
-                "MACM101", "CMPT125", "CMPT127"
-            ]
+            "CODE": "CMPT225"
         },
         {
-            "CODE": "CMPT276",
-            "PREREQ": [
-                "CMPT225", "MACM101", "MATH151"
-            ]
+            "CODE": "CMPT276"
         },
         {
-            "CODE": "CMPT295",
-            "PREREQ": [
-                "MACM101", "CMPT125", "CMPT127"
-            ]
+            "CODE": "CMPT295"
         },
         {
-            "CODE": "MACM101",
-            "PREREQ": [
-                "MATH151"
-            ]
+            "CODE": "MACM101"
         },
         {
-            "CODE": "MACM201",
-            "PREREQ": [
-                "MACM101"
-            ]
+            "CODE": "MACM201"
         },
         {
-            "CODE": "MATH151",
-            "PREREQ": [
-                "MATH100"
-            ]
+            "CODE": "MATH151"
         },
         {
-            "CODE": "MATH152",
-            "PREREQ": [
-                "MATH151"
-            ]
+            "CODE": "MATH152"
         },
         {
-            "CODE": "MATH240",
-            "PREREQ": [
-                "MATH151", "MACM101"
-            ]
+            "CODE": "MATH240"
         },
         {
-            "CODE": "STAT270",
-            "PREREQ": [
-                "MATH152"
-            ]
+            "CODE": "STAT270"
         },
         {
-            "CODE": "CMPT376W",
-            "PREREQ": [
-                "CMPT276"
-            ]
+            "CODE": "CMPT376W"
         },
         {
-            "CODE": "CMPT300",
-            "PREREQ": [
-                "CMPT225", "MACM101"
-            ]
+            "CODE": "CMPT300"
         },
         {
-            "CODE": "CMPT307",
-            "PREREQ": [
-                "CMPT225", "MACM201", "MATH151", "MATH240"
-            ]
+            "CODE": "CMPT307"
         },
         {
-            "CODE": "MACM316",
-            "PREREQ": [
-                "MATH152", "MATH240"
-            ]
+            "CODE": "MACM316"
         },
         {
-            "CODE": "CMPT310",
-            "PREREQ": [
-                "CMPT225", "MACM101"
-            ]
+            "CODE": "CMPT310"
         },
         {
-            "CODE": "CMPT340",
-            "PREREQ": [
-                "CMPT125"
-            ]
+            "CODE": "CMPT340"
         },
         {
-            "CODE": "CMPT411",
-            "PREREQ": [
-            ]
+            "CODE": "CMPT411"
         },
         {
-            "CODE": "CMPT412",
-            "PREREQ": [
-                "MATH152"
-            ]
+            "CODE": "CMPT412"
         },
         {
-            "CODE": "CMPT413",
-            "PREREQ": [
-            ]
+            "CODE": "CMPT413"
         },
         {
-            "CODE": "CMPT414",
-            "PREREQ": [
-                "MATH152"
-            ]
+            "CODE": "CMPT414"
         },
         {
-            "CODE": "CMPT417",
-            "PREREQ": [
-                "CMPT225"
-            ]
+            "CODE": "CMPT417"
         },
         {
-            "CODE": "CMPT419",
-            "PREREQ": [
-            ]
+            "CODE": "CMPT419"
         },
         {
-            "CODE": "CMPT361",
-            "PREREQ": [
-                "CMPT225", "MATH240"
-            ]
+            "CODE": "CMPT361"
         },
         {
-            "CODE": "CMPT363",
-            "PREREQ": [
-                "CMPT225"
-            ]
+            "CODE": "CMPT363"
         },
         {
-            "CODE": "CMPT365",
-            "PREREQ": [
-                "CMPT225"
-            ]
+            "CODE": "CMPT365"
         },
         {
-            "CODE": "CMPT461",
-            "PREREQ": [
-                "CMPT361", "MACM201", "MACM316"
-            ]
+            "CODE": "CMPT461"
         },
         {
-            "CODE": "CMPT464",
-            "PREREQ": [
-                "CMPT361", "MACM316"
-            ]
+            "CODE": "CMPT464"
         },
         {
-            "CODE": "CMPT466",
-            "PREREQ": [
-                "CMPT361", "MACM316"
-            ]
+            "CODE": "CMPT466"
         },
         {
-            "CODE": "CMPT469",
-            "PREREQ": [
-                "CMPT361"
-            ]
+            "CODE": "CMPT469"
         },
         {
-            "CODE": "CMPT305",
-            "PREREQ": [
-                "CMPT225", "MACM101", "STAT270"
-            ]
+            "CODE": "CMPT305"
         },
         {
-            "CODE": "CMPT371",
-            "PREREQ": [
-                "CMPT225", "CMPT295", "MATH151"
-            ]
+            "CODE": "CMPT371"
         },
         {
-            "CODE": "CMPT379",
-            "PREREQ": [
-                "CMPT225", "MACM201", "CMPT295"
-            ]
+            "CODE": "CMPT379"
         },
         {
-            "CODE": "CMPT431",
-            "PREREQ": [
-                "CMPT300", "CMPT371"
-            ]
+            "CODE": "CMPT431"
         },
         {
-            "CODE": "CMPT433",
-            "PREREQ": [
-                "CMPT295", "CMPT300"
-            ]
+            "CODE": "CMPT433"
         },
         {
-            "CODE": "CMPT471",
-            "PREREQ": [
-                "CMPT300", "CMPT371"
-            ]
+            "CODE": "CMPT471"
         },
         {
-            "CODE": "CMPT479",
-            "PREREQ": [
-                "CMPT300"
-            ]
+            "CODE": "CMPT479"
         },
         {
-            "CODE": "CMPT499",
-            "PREREQ": [
-                "CMPT250"
-            ]
+            "CODE": "CMPT499"
         },
         {
-            "CODE": "CMPT353",
-            "PREREQ": [
-                "CMPT225", "STAT270"
-            ]
+            "CODE": "CMPT353"
         },
         {
-            "CODE": "CMPT354",
-            "PREREQ": [
-                "CMPT225", "MACM101"
-            ]
+            "CODE": "CMPT354"
         },
         {
-            "CODE": "CMPT441",
-            "PREREQ": [
-                "CMPT307"
-            ]
+            "CODE": "CMPT441"
         },
         {
-            "CODE": "CMPT454",
-            "PREREQ": [
-                "CMPT300", "CMPT354"
-            ]
+            "CODE": "CMPT454"
         },
         {
-            "CODE": "CMPT456",
-            "PREREQ": [
-                "CMPT354"
-            ]
+            "CODE": "CMPT456"
         },
         {
-            "CODE": "CMPT459",
-            "PREREQ": [
-                "CMPT354"
-            ]
+            "CODE": "CMPT459"
         },
         {
-            "CODE": "CMPT470",
-            "PREREQ": [
-                "CMPT276", "CMPT354"
-            ]
+            "CODE": "CMPT470"
         },
         {
-            "CODE": "CMPT474",
-            "PREREQ": [
-                "CMPT371"
-            ]
+            "CODE": "CMPT474"
         },
         {
-            "CODE": "CMPT318",
-            "PREREQ": [
-                "CMPT225"
-            ]
+            "CODE": "CMPT318"
         },
         {
-            "CODE": "CMPT308",
-            "PREREQ": [
-                "MACM201"
-            ]
+            "CODE": "CMPT308"
         },
         {
-            "CODE": "CMPT404",
-            "PREREQ": [
-                "MACM201"
-            ]
+            "CODE": "CMPT404"
         },
         {
-            "CODE": "CMPT405",
-            "PREREQ": [
-                "CMPT307"
-            ]
+            "CODE": "CMPT405"
         },
         {
-            "CODE": "CMPT407",
-            "PREREQ": [
-                "CMPT307"
-            ]
+            "CODE": "CMPT407"
         },
         {
-            "CODE": "CMPT408",
-            "PREREQ": [
-                "CMPT307", "CMPT371"
-            ]
+            "CODE": "CMPT408"
         },
         {
-            "CODE": "CMPT409",
-            "PREREQ": [
-                "CMPT307"
-            ]
+            "CODE": "CMPT409"
         },
         {
-            "CODE": "MACM300",
-            "PREREQ": [
-                "MACM201"
-            ]
+            "CODE": "MACM300"
         },
         {
-            "CODE": "MACM401",
-            "PREREQ": [
-                "CMPT307"
-            ]
+            "CODE": "MACM401"
         },
         {
-            "CODE": "MATH308",
-            "PREREQ": [
-                "MATH151", "MATH240"
-            ]
+            "CODE": "MATH308"
         },
         {
-            "CODE": "MATH340",
-            "PREREQ": [
-                "MATH240"
-            ]
+            "CODE": "MATH340"
         },
         {
-            "CODE": "MATH343",
-            "PREREQ": [
-                "MACM201"
-            ]
+            "CODE": "MATH343"
         },
         {
-            "CODE": "MACM442",
-            "PREREQ": [
-                "CMPT405", "CMPT225", "MATH340"
-            ]
+            "CODE": "MACM442"
         }
     ]
 }
