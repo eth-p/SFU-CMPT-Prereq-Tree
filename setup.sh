@@ -1,3 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
+PIP=pip3
+if ! command -v "$PIP" 2>&1; then PIP="pip"; fi
 
-pip install -r requirements.txt
+set -x
+"$PIP" install -r requirements.txt
+
